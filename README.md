@@ -84,9 +84,9 @@ endmodule
 ## **RTL realization Output:** 
 ![Screenshot 2024-03-14 041118](https://github.com/ajinajoshpin/study-of-basic-gates/assets/148514578/3468f19d-df59-494e-95f8-d81c8d3e0cf3)
 
-
 ## **RTL**
+![image](https://github.com/ajinajoshpin/study-of-basic-gates/assets/148514578/38c0da9c-0b04-42d5-a32e-d2d343c652f4)
 
 ## **Result:**
-
+Thus the different digital IC's are studied and the truth table for different logic gates are verified.
 
