@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### **study-of-basic-gates**
 
 **AIM:** 
 
@@ -78,14 +78,15 @@ nor(Y6,a,b);
 xnor(Y7,a,b);
 endmodule
 ```
-**Logic symbol & Truthtable**
+## **Logic symbol & Truthtable**
+![image](https://github.com/ajinajoshpin/study-of-basic-gates/assets/148514578/cabc50f2-3fee-4b68-ae9f-6a1d71484f94)
 
-**RTL realization Output:** 
+## **RTL realization Output:** 
 ![Screenshot 2024-03-14 041118](https://github.com/ajinajoshpin/study-of-basic-gates/assets/148514578/3468f19d-df59-494e-95f8-d81c8d3e0cf3)
 
 
-**RTL**
+## **RTL**
 
-**Result:**
+## **Result:**
 
 
